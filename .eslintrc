@@ -6,6 +6,9 @@
   "globals": {
     "expect": true
   },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
   "rules": {
     // Ignore Rules
     "strict": 0,
